@@ -1,4 +1,4 @@
-# decode-uri-component
+ # decode-uri-component
 
 ![CI](https://github.com/SamVerschueren/decode-uri-component/workflows/CI/badge.svg) [![Coverage Status](https://coveralls.io/repos/SamVerschueren/decode-uri-component/badge.svg?branch=master&service=github)](https://coveralls.io/github/SamVerschueren/decode-uri-component?branch=master)
 
